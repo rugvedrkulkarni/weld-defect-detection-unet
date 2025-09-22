@@ -23,6 +23,9 @@ python code/train.py
 3. Run inference:
 python code/inference.py --model_path saved_model.pth --image_path data/test.png
 
+## Results
+
+
 ## Tools Used
 Python, PyTorch ,Albumentations, OpenCV, NumPy, Matplotlib
 
