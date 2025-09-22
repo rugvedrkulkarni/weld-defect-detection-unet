@@ -24,6 +24,7 @@ python code/train.py
 python code/inference.py --model_path saved_model.pth --image_path data/test.png
 
 ## Results
+<img width="1638" height="535" alt="results" src="https://github.com/user-attachments/assets/9cc8fe6d-564d-4272-9970-b11c7f899665" />
 
 
 ## Tools Used
